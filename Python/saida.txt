@@ -1,0 +1,5 @@
+Este é um desafio simples.
+Podemos resolver este desafio facilmente.
+Esta linha deve ser ignorada.
+Outro desafio aparece aqui.
+Linha comum sem desafios.
